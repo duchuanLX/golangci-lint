@@ -9,5 +9,6 @@ package tools
 //
 // nolint
 import (
+	_ "github.com/goreleaser/godownloader"
 	_ "github.com/goreleaser/goreleaser"
 )
